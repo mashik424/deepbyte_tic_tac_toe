@@ -14,7 +14,7 @@ Problem Statement:
 
 Directions for running the app: 
 
-    Simply clone the project to a machine with flutter development set up and run
+Simply clone the project to a machine with flutter development set up and run
 
 Flutter & Dart versions used: 
 
